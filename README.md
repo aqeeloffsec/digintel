@@ -8,7 +8,7 @@ DigIntel is an advanced, comprehensive OSINT (Open-Source Intelligence) reconnai
 
 - **Name:** Aqeel Ur Rehman Chishti  
 - **Role:** Information Security Researcher & OSINT Enthusiast  
-- **GitHub:** [eagleyeee/digintel](https://github.com/eagleyeee/digintel)  
+- **GitHub:** [aqeeloffsec/digintel](https://github.com/eagleyeee/digintel)  
 - **LinkedIn:** [linkedin.com/in/aqeelchishti](https://linkedin.com/in/aqeelchishti)  
 
 
